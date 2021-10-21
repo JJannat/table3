@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body{
+   text-align: center;
+   background-image: url(background-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#home{
+    margin-left: 410px;
+    z-index: 1;
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    margin-top: 40px;
+    text-align: center;
+}
+h3{
+    color: grey;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    border-right: 1px solid grey;
+    border-left: 1px solid grey;
+    margin-left: 30px;
+    text-align: center;
+}
+td{
+    font-weight: bold;
+    padding: 15px;
+    border-bottom: 2px solid grey;
+    text-align: center;
+}
+.Heading td{
+    background-color: red;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+.strikerate{
+    font-weight: 600;
+    text-align: right;
+    text-align: center;
+}
+.DISMISSALS{
+    color:rgb(94, 86, 86);
+    font-weight: 600;
+text-align: center;
+}
